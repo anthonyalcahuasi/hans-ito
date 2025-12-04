@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  📍 Cusco, Perú | 📞 +51 944 164 833 | 📧 <a href="mailto:augustoarrarte191@gmail.com">aalcahuasidiaz@gmail.com</a>
+  📍 Cusco, Perú | 📞 +51 944 164 833 | 📧 <a href="mailto:aalcahuasidiaz@gmail.com">aalcahuasidiaz@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/carlosarrate" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-carlosarrate-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/anthonyalcahuasi" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-anthonyalcahuasi-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/hans-alcahuasi/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-carlos--arrarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-anthony--alcahuasi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:aalcahuasidiaz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="tel:+5144164833" target="_blank">
+  <a href="tel:+51944164833" target="_blank">
     <img src="https://img.shields.io/badge/CONTACTARME-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
