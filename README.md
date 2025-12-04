@@ -1,28 +1,28 @@
-<h1 align="center">👋 ¡Hola! Soy Carlos Augusto Arrarte Chinga<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 ¡Hola! Soy Anthony Manuel Hans Alcahuasi Diaz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/carlosarrate"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack;Especialista%20en%20Backend%20con%20Laravel;Spring%20Boot%20%7C%20Kotlin%20%7C%20C%23;Líder%20de%20Desarrollo%20Web;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Pacifico&center=true&width=700&height=120&color=58a6ff&vCenter=true&size=35%22"></a>
+  <a href="https://github.com/anthonyalcahuasi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack;Especialista%20en%20Backend%20con%20Laravel;Spring%20Boot%20%7C%20Kotlin%20%7C%20C%23;Líder%20de%20Desarrollo%20Web;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Pacifico&center=true&width=700&height=120&color=58a6ff&vCenter=true&size=35%22"></a>
 </p>
 
 <p align="center">
-  💻 <b>Desarrollador Full Stack</b> | 💡 <b>Especialista en Backend PHP – Laravel</b>
+  💻 <b>Desarrollador Frontend</b> | 💡 <b>Diseñador UX/UI</b>
 </p>
 
 <p align="center">
-  📍 Lima, Perú | 📞 +51 991 662 249 | 📧 <a href="mailto:augustoarrarte191@gmail.com">augustoarrarte191@gmail.com</a>
+  📍 Cusco, Perú | 📞 +51 944 164 833 | 📧 <a href="mailto:augustoarrarte191@gmail.com">aalcahuasidiaz@gmail.com</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/carlosarrate" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-carlosarrate-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/carlos-arrarte-3b453a262/" target="_blank">
+  <a href="https://www.linkedin.com/in/hans-alcahuasi/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-carlos--arrarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:augustoarrarte191@gmail.com" target="_blank">
+  <a href="mailto:aalcahuasidiaz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="tel:+51991662249" target="_blank">
+  <a href="tel:+5144164833" target="_blank">
     <img src="https://img.shields.io/badge/CONTACTARME-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
